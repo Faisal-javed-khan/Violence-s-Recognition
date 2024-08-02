@@ -73,7 +73,7 @@ To interpret model predictions, we used Grad-CAM (Gradient-weighted Class Activa
 - **Grad-CAM for CNN-LSTM:**
   - Showed temporal patterns and key frame areas crucial for recognizing violent actions.
 
-![Grad-CAM Example](https://raw.githubusercontent.com/username/repository/branch/images/gradcam_example.png)
+![Grad-CAM Example]([https://raw.githubusercontent.com/username/repository/branch/images/gradcam_example.png](https://github.com/Faisal-javed-khan/Violence-s-Recognition/blob/main/integrated_saliency_Map4.png))
 
 ## Conclusion
 
