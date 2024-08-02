@@ -1,2 +1,2 @@
 # Violence-s-Recognition
-![Alt Text](Framework.png)
+![Alt Text](framework.png)
